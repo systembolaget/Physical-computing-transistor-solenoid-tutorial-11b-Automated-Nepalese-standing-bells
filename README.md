@@ -1,6 +1,6 @@
-# Physical computing sensor transistor motor tutorial - Random Nepalese bells
+# Physical computing sensor transistor motor tutorial - Automated Nepalese standing bells
 
-Some kind of meditation automation shenanigans; a set of standing bells randomly struck by solenoid powered rubber mallets
+Meditation automation. How to use standing bells and solenoid mallets with Arduino using millis(). Say goodbye to blocking delay()
 
 ### Result
 
