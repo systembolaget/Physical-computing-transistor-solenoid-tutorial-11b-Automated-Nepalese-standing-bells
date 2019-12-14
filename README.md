@@ -19,7 +19,7 @@ Meditation automation. How to use standing bells and solenoid mallets with Ardui
 €   1,00 2 ON Semiconductor 1N822 Schottky diodes
 € 270,00 2 Nepalese standing bells
 €  14,00 2 Soft natural rubber/felt mallets
-€  65,00 Laser-cut steel mounting brackets
+€  65,00 2 Laser-cut steel mounting brackets
 €   6,00 Brass and nylon screws, washers and nuts
 €   4,00 Half-size transparent breadboard
 €   2,00 Breadboard mini modular black
