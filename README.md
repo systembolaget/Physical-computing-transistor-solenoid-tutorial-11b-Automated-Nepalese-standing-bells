@@ -1,6 +1,6 @@
 # Physical computing transistor solenoid tutorial - Automated Nepalese standing bells
 
-Meditation automation. How to use standing bells and solenoid mallets with Arduino using millis(). Say goodbye to blocking delay()
+Meditation automation. How to strike standing bells with solenoid mallets from Arduino with millis(). Say goodbye to blocking delay()
 
 ### Result
 
