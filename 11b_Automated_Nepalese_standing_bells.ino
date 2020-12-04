@@ -1,8 +1,8 @@
 // Tutorial 11b. Automated Nepalese standing bells
 
 // Main parts: Adafruit Metro Mini, TDS-10A solenoids, 9V battery,
-// Infineon Technologies IRFZ44N MOSFET, Nepalese standing bells,
-// ON Semiconductor 1N5819 Schottky diode
+// Infineon Technologies IRFZ44N MOSFETs, Nepalese standing bells,
+// ON Semiconductor 1N5819 Schottky diodes
 
 // Variables that remain constant
 const byte pinSolenoidSmall = 5; // Digital output pin to solenoid
