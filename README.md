@@ -2,9 +2,11 @@
 
 Meditation automation. How to strike standing bells with solenoid mallets from Arduino with millis(). Say goodbye to blocking delay()
 
-### Result
+### Setup
 
-![](Assets/11b%20result.jpg)
+You can click the image to play the associated YouTube video
+
+[![Alt text](Assets/11b%20result.jpg)](https://www.youtube.com/watch?v=pEBjAf4X-7A)
 
 ### Schematic
 
